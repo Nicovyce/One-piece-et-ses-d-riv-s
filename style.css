@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    font-size: 100px;
+    font-family: 'Delicious Handrawn', cursive;
+    text-align: center;
+   
+    
+}
+p {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 25px;
+}
+body {
+    background-color: peru;
+}
+ol {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 25px;
+}
